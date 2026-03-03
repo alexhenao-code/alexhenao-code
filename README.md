@@ -4,7 +4,7 @@
 <div align="center">
   <!-- Avatar automático: reemplaza TU_USERNAME -->
   <img src="https://github.com/alexhenao-code.png" alt="Avatar" width="120" style="border-radius:50%"/>
-  <h1>Hola, soy <strong>Tu Nombre</strong> — Desarrollador Android en formación</h1>
+  <h1>Hola, soy <strong>alexander</strong> — Desarrollador Android en formación</h1>
   <p>Me especializo en crear apps Android modernas y accesibles. Aprendiendo Kotlin, Jetpack Compose y buenas prácticas de arquitectura.</p>
 
   <!-- Badges (ejemplo, puedes quitar o cambiar) -->
