@@ -3,7 +3,7 @@
 
 <div align="center">
   <!-- Avatar automático: reemplaza TU_USERNAME -->
-  <img src="https://github.com/TU_USERNAME.png" alt="Avatar" width="120" style="border-radius:50%"/>
+  <img src="https://github.com/alexhenao-code.png" alt="Avatar" width="120" style="border-radius:50%"/>
   <h1>Hola, soy <strong>Tu Nombre</strong> — Desarrollador Android en formación</h1>
   <p>Me especializo en crear apps Android modernas y accesibles. Aprendiendo Kotlin, Jetpack Compose y buenas prácticas de arquitectura.</p>
 
@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpack&logoColor=white" alt="Jetpack Compose"/>
     <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android"/>
     <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase"/>
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
   </p>
 </div>
@@ -60,11 +59,6 @@
 
 <h2>Cómo contactarme</h2>
 <p>
-  📫 <a href="mailto:tu.email@ejemplo.com">tu.email@ejemplo.com</a> &nbsp;•&nbsp;
+  📫 <a href="alexhenaoprogramador@gmail.com">tu.email@ejemplo.com</a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/TU_USERNAME">LinkedIn</a> &nbsp;•&nbsp;
-  <a href="https://twitter.com/TU_USERNAME">Twitter</a>
 </p>
-
----
-
-<p align="center">Si quieres, te puedo ayudar a convertir esto a Markdown puro o a personalizar cada proyecto (descripciones, tecnologías usadas, capturas, GIFs, etc.).</p>
