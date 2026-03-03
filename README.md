@@ -59,6 +59,6 @@
 
 <h2>Cómo contactarme</h2>
 <p>
-  📫 <a href="alexhenaoprogramador@gmail.com">tu.email@ejemplo.com</a> &nbsp;•&nbsp;
+  📫 <a href="alexhenaoprogramador@gmail.com">contactame</a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/TU_USERNAME">LinkedIn</a> &nbsp;•&nbsp;
 </p>
