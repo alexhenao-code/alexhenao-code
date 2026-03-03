@@ -49,11 +49,9 @@
   <summary><strong>Más detalles técnicos (clic para ver)</strong></summary>
   <ul>
     <li>Lenguajes: Kotlin, Java</li>
-    <li>UI: Jetpack Compose, Material Design</li>
-    <li>Persistencia: Room, DataStore</li>
-    <li>Red: Retrofit, OkHttp</li>
+    <li>UI: Jetpack Compose</li>
+    <li>Persistencia: Room </li>
     <li>CI/CD: GitHub Actions (configuración básica)</li>
-    <li>Testing: JUnit, Espresso (tests ejemplo)</li>
   </ul>
 </details>
 
