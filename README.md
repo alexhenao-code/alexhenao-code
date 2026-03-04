@@ -1,22 +1,67 @@
-# Android Developer Profile
+<!-- README para perfil GitHub: DESARROLLADOR ANDROID -->
+<!-- Reemplaza TU_USERNAME, TU_NOMBRE, y los enlaces/proyectos por los tuyos -->
 
-## Overview
+<!-- 🔥 BANNER -->
+<p align="center">
+  <img src="./assets/bannergithub. jpg %20github.jpg" 
+       alt="Alexander - Android Developer Banner" 
+       width="100%" 
+       style="border-radius:12px;" />
+</p>
 
-I am an experienced Android developer with a passion for creating high-quality mobile applications.
+<div align="left">
+  <h1>Hola, soy <strong>alexander</strong> — Desarrollador Android en formación</h1>
+  <p>Me especializo en crear apps Android modernas y accesibles. Aprendiendo Kotlin, Jetpack Compose y buenas prácticas de arquitectura.</p>
 
-## Skills
-- Android SDK
-- Kotlin
-- Java
-- RESTful APIs
-- UI/UX Design
+  <!-- Badges (ejemplo, puedes quitar o cambiar) -->
+  <p>
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white" alt="Kotlin"/>
+    <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpack&logoColor=white" alt="Jetpack Compose"/>
+    <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android"/>
+    <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
+  </p>
+</div>
 
-## Projects
-- **Project One**: A comprehensive app that does XYZ.
-- **Project Two**: An innovative app that enables ABC.
+---
 
-![Banner image](./assets/bannergithub.jpg)
+<h2>Sobre mí</h2>
+<p>Soy desarrollador Android junior en formación. Me enfoco en:</p>
+<ul>
+  <li>Aplicaciones nativas con <strong>Kotlin</strong> y <strong>Jetpack Compose</strong>.</li>
+  <li>Arquitectura limpia (MVVM), manejo de estado y pruebas básicas.</li>
+  <li>Integración con <strong>Firebase</strong> (Auth, Firestore, Analytics).</li>
+  <li>Control de versiones con <strong>Git</strong> y colaboración en equipo.</li>
+</ul>
 
-## Contact
-**Email**: example@example.com
-**LinkedIn**: [Your LinkedIn](https://www.linkedin.com)
+<h2>Proyectos destacados</h2>
+<ul>
+  <li>
+    <strong><a href="https://github.com/TU_USERNAME/proyecto-app-ejemplo">MiApp-Notas</a></strong>
+    — App de notas con Jetpack Compose, Room y sincronización con Firebase.
+  </li>
+  <li>
+    <strong><a href="https://github.com/TU_USERNAME/proyecto-clima">WeatherNow</a></strong>
+    — Cliente de clima con consumo de API, diseño responsivo y manejo de errores.
+  </li>
+  <li>
+    <strong><a href="https://github.com/TU_USERNAME/proyecto-ux">TiendaDemo</a></strong>
+    — UI/UX demo de catálogo usando componentes Material y animaciones con Compose.
+  </li>
+</ul>
+
+<details>
+  <summary><strong>Más detalles técnicos (clic para ver)</strong></summary>
+  <ul>
+    <li>Lenguajes: Kotlin, Java</li>
+    <li>UI: Jetpack Compose</li>
+    <li>Persistencia: Room</li>
+    <li>CI/CD: GitHub Actions (configuración básica)</li>
+  </ul>
+</details>
+
+<h2>Cómo contactarme</h2>
+<p>
+  📫 <a href="mailto:alexhenaoprogramador@gmail.com">alexhenaoprogramador@gmail.com</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/esneider-alexander-henao-restrepo">LinkedIn</a>
+</p>
