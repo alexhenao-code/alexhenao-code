@@ -1,7 +1,7 @@
 <!-- README para perfil GitHub: DESARROLLADOR ANDROID -->
 <!-- Reemplaza TU_USERNAME, TU_NOMBRE, y los enlaces/proyectos por los tuyos -->
 
-<div align="center">
+<div align="left">
   <!-- Avatar automático: reemplaza TU_USERNAME -->
   <img src="https://github.com/alexhenao-code.png" alt="Avatar" width="120" style="border-radius:50%"/>
   <h1>Hola, soy <strong>alexander</strong> — Desarrollador Android en formación</h1>
