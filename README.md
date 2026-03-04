@@ -3,7 +3,7 @@
 
 <!-- 🔥 BANNER -->
 <p align="center">
-  <img src="./assets/bannergithub. jpg %20github.jpg" 
+  <img src="./assets/bannergithub.jpg %20github.jpg" 
        alt="Alexander - Android Developer Banner" 
        width="100%" 
        style="border-radius:12px;" />
