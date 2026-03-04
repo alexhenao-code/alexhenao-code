@@ -1,9 +1,12 @@
 <!-- README para perfil GitHub: DESARROLLADOR ANDROID -->
 <!-- Reemplaza TU_USERNAME, TU_NOMBRE, y los enlaces/proyectos por los tuyos -->
 
+<!-- 🔥 BANNER -->
+<p align="center">
+  <img src="./assets/banner.png" alt="Android Developer Banner" width="100%" style="border-radius:12px;" />
+</p>
+
 <div align="left">
-  <!-- Avatar automático: reemplaza TU_USERNAME -->
-  <img src="https://github.com/alexhenao-code.png" alt="Avatar" width="120" style="border-radius:50%"/>
   <h1>Hola, soy <strong>alexander</strong> — Desarrollador Android en formación</h1>
   <p>Me especializo en crear apps Android modernas y accesibles. Aprendiendo Kotlin, Jetpack Compose y buenas prácticas de arquitectura.</p>
 
@@ -29,7 +32,6 @@
 </ul>
 
 <h2>Proyectos destacados</h2>
-<!-- Cambia los enlaces y descripciones por tus proyectos -->
 <ul>
   <li>
     <strong><a href="https://github.com/TU_USERNAME/proyecto-app-ejemplo">MiApp-Notas</a></strong>
@@ -50,13 +52,13 @@
   <ul>
     <li>Lenguajes: Kotlin, Java</li>
     <li>UI: Jetpack Compose</li>
-    <li>Persistencia: Room </li>
+    <li>Persistencia: Room</li>
     <li>CI/CD: GitHub Actions (configuración básica)</li>
   </ul>
 </details>
 
 <h2>Cómo contactarme</h2>
 <p>
-  📫 <a href="alexhenaoprogramador@gmail.com">alexhenaoprogramador@gmail.com</a> &nbsp;•&nbsp;
-  <a href="www.linkedin.com/in/esneider-alexander-henao-restrepo">LinkedIn</a> &nbsp;•&nbsp;
+  📫 <a href="mailto:alexhenaoprogramador@gmail.com">alexhenaoprogramador@gmail.com</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/esneider-alexander-henao-restrepo">LinkedIn</a>
 </p>
