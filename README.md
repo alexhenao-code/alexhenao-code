@@ -1,67 +1,50 @@
-<!-- README para perfil GitHub: DESARROLLADOR ANDROID -->
-<!-- Reemplaza TU_USERNAME, TU_NOMBRE, y los enlaces/proyectos por los tuyos -->
+# Hola, soy Alexander — Desarrollador Frontend en formación
 
-<!-- 🔥 BANNER -->
-<p align="center">
-  <img src="./assets/bannergithub.jpg %20github.jpg" 
-       alt="Alexander - Android Developer Banner" 
-       width="100%" 
-       style="border-radius:12px;" />
-</p>
+Me especializo en crear interfaces web modernas, rápidas y responsivas.  
+Actualmente aprendiendo **JavaScript**, **React** y buenas prácticas de desarrollo frontend.
 
-<div align="left">
-  <h1>Hola, soy <strong>alexander</strong> — Desarrollador Android en formación</h1>
-  <p>Me especializo en crear apps Android modernas y accesibles. Aprendiendo Kotlin, Jetpack Compose y buenas prácticas de arquitectura.</p>
-
-  <!-- Badges (ejemplo, puedes quitar o cambiar) -->
-  <p>
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white" alt="Kotlin"/>
-    <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpack&logoColor=white" alt="Jetpack Compose"/>
-    <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android"/>
-    <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
-  </p>
-</div>
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![React](https://img.shields.io/badge/React-61DAFB)
+![Git](https://img.shields.io/badge/Git-red)
 
 ---
 
-<h2>Sobre mí</h2>
-<p>Soy desarrollador Android junior en formación. Me enfoco en:</p>
-<ul>
-  <li>Aplicaciones nativas con <strong>Kotlin</strong> y <strong>Jetpack Compose</strong>.</li>
-  <li>Arquitectura limpia (MVVM), manejo de estado y pruebas básicas.</li>
-  <li>Integración con <strong>Firebase</strong> (Auth, Firestore, Analytics).</li>
-  <li>Control de versiones con <strong>Git</strong> y colaboración en equipo.</li>
-</ul>
+## Sobre mí
 
-<h2>Proyectos destacados</h2>
-<ul>
-  <li>
-    <strong><a href="https://github.com/TU_USERNAME/proyecto-app-ejemplo">MiApp-Notas</a></strong>
-    — App de notas con Jetpack Compose, Room y sincronización con Firebase.
-  </li>
-  <li>
-    <strong><a href="https://github.com/TU_USERNAME/proyecto-clima">WeatherNow</a></strong>
-    — Cliente de clima con consumo de API, diseño responsivo y manejo de errores.
-  </li>
-  <li>
-    <strong><a href="https://github.com/TU_USERNAME/proyecto-ux">TiendaDemo</a></strong>
-    — UI/UX demo de catálogo usando componentes Material y animaciones con Compose.
-  </li>
-</ul>
+Soy desarrollador frontend junior en formación. Me enfoco en:
+
+- Creación de interfaces modernas con **HTML, CSS y JavaScript**
+- Diseño **responsive** para móvil, tablet y desktop
+- Consumo de **APIs REST**
+- Uso de **Git y GitHub** para control de versiones
+- Componentes modernos con **React**
+
+---
+
+## Proyectos destacados
+
+- **TaskApp** — Aplicación de tareas con JavaScript (CRUD local).
+- **WeatherApp** — App de clima consumiendo API pública.
+- **LandingPage** — Página responsive para negocio o producto.
 
 <details>
-  <summary><strong>Más detalles técnicos (clic para ver)</strong></summary>
-  <ul>
-    <li>Lenguajes: Kotlin, Java</li>
-    <li>UI: Jetpack Compose</li>
-    <li>Persistencia: Room</li>
-    <li>CI/CD: GitHub Actions (configuración básica)</li>
-  </ul>
+<summary>Más detalles técnicos (clic para ver)</summary>
+
+Tecnologías utilizadas:
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Git / GitHub
+
 </details>
 
-<h2>Cómo contactarme</h2>
-<p>
-  📫 <a href="mailto:alexhenaoprogramador@gmail.com">alexhenaoprogramador@gmail.com</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/esneider-alexander-henao-restrepo">LinkedIn</a>
-</p>
+---
+
+## Cómo contactarme
+
+📧 alexhenaoprogramador@gmail.com  
+💼 LinkedIn: www.linkedin.com/in/alexander-henao
