@@ -1,43 +1,48 @@
-# Hola, soy Alexander — Desarrollador Frontend en formación
+# Hola, soy Alexander — Backend Developer en formación
 
-Me especializo en crear interfaces web modernas, rápidas y responsivas.  
-Actualmente aprendiendo **JavaScript**, **React** y buenas prácticas de desarrollo frontend.
+Me especializo en construir **APIs, lógica de servidor y manejo de bases de datos**.  
+Actualmente enfocado en **Python, Java, .NET, PHP y SQL** para desarrollo backend.
 
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![React](https://img.shields.io/badge/React-61DAFB)
+![Python](https://img.shields.io/badge/Python-yellow)
+![Java](https://img.shields.io/badge/Java-red)
+![.NET](https://img.shields.io/badge/.NET-purple)
+![PHP](https://img.shields.io/badge/PHP-blue)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
 ![Git](https://img.shields.io/badge/Git-red)
 
 ---
 
 ## Sobre mí
 
-Soy desarrollador frontend junior en formación. Me enfoco en:
+Soy desarrollador **backend junior en formación**. Me enfoco en:
 
-- Creación de interfaces modernas con **HTML, CSS y JavaScript**
-- Diseño **responsive** para móvil, tablet y desktop
-- Consumo de **APIs REST**
+- Desarrollo de **APIs REST**
+- Creación de **CRUD con bases de datos**
+- Manejo de **MySQL y SQL**
+- Autenticación básica en aplicaciones
+- Arquitectura básica de **servidor y backend**
 - Uso de **Git y GitHub** para control de versiones
-- Componentes modernos con **React**
 
 ---
 
 ## Proyectos destacados
 
-- **TaskApp** — Aplicación de tareas con JavaScript (CRUD local).
-- **WeatherApp** — App de clima consumiendo API pública.
-- **LandingPage** — Página responsive para negocio o producto.
+- **User API** — API REST para gestión de usuarios con CRUD completo.
+- **Auth System** — Sistema de autenticación con login y registro.
+- **Task Manager API** — Backend para aplicación de gestión de tareas.
+- **Database CRUD** — Aplicación conectada a base de datos con operaciones CRUD.
 
 <details>
 <summary>Más detalles técnicos (clic para ver)</summary>
 
 Tecnologías utilizadas:
 
-- HTML5
-- CSS3
-- JavaScript
-- React
+- Python
+- Java
+- PHP
+- .NET
+- SQL
+- REST APIs
 - Git / GitHub
 
 </details>
@@ -48,3 +53,7 @@ Tecnologías utilizadas:
 
 📧 alexhenaoprogramador@gmail.com  
 💼 LinkedIn: www.linkedin.com/in/alexander-henao
+
+---
+
+⭐ Siempre aprendiendo y mejorando como desarrollador backend
