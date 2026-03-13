@@ -52,7 +52,7 @@ Tecnologías utilizadas:
 ## Cómo contactarme
 
 📧 alexhenaoprogramador@gmail.com  
-💼 LinkedIn: www.linkedin.com/in/alexander-henao
+💼 LinkedIn: www.linkedin.com/in/esneider-alexander-henao-restrepo
 
 ---
 
